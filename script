@@ -1,0 +1,7 @@
+#!/bin/bash
+
+mkdir a
+touch a/f1 a/f2 a/f3
+x=`find a/f2`
+mv $x .
+rm f2
