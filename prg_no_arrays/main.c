@@ -1,3 +1,5 @@
+// http://informatics.mccme.ru/mod/statements/view3.php?id=253&chapterid=156
+
 #include <stdio.h>
 
 void f(int n) {

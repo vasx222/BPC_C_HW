@@ -1,3 +1,5 @@
+// http://informatics.mccme.ru/mod/statements/view3.php?id=277&chapterid=307
+
 #include <stdio.h>
 
 double power (double a, int n) {

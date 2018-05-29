@@ -1,3 +1,5 @@
+// http://informatics.mccme.ru/mod/statements/view3.php?id=277&chapterid=312
+
 #include <stdio.h>
 
 
